@@ -1,0 +1,2 @@
+# EasyPhysicsPrivacy
+EasyPhysics privacy policy
