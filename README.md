@@ -1,5 +1,4 @@
 # This page regulates the user usage regarding the mobile app EasyPhysics created by Francesco Podestà
-theme: Minima
 
 ## Information collected automatically
 The application may collect automatically some kind of data regarding the device as an example the ID of the device, the IP address, the type of device, the operating system and the user language. This data is used only for analytics and may be provided from Google services. The application is only distributed on the official website Google Play Store, Francesco Podestà has no control and he is not responsible for data collection conducted by third part services.
