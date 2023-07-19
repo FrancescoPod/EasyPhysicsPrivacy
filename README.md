@@ -7,7 +7,7 @@ The application may collect automatically some kind of data regarding the device
 ## Please refer to the following regulation regarding third part services:
 
  - https://policies.google.com/privacy?hl=en-US
- - https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0
+ - https://unity.com/legal/game-player-and-app-user-privacy-policy
 
 
 ## User's data deletion and management
@@ -16,10 +16,10 @@ After deleted the data, it cannot be restored in any way. If users have question
 
 ## Policy about children
 Francesco Podestà does not use the app to collect consciously data from children under 13 years old.
-Francesco Podestà has no control and he is not responsible for data collection conducted by third part services so refer to Facebook and Google policies. Children can use this app only under the parent control.
+Francesco Podestà has no control and he is not responsible for data collection conducted by third part services so refer to Unity and Google policies. Children can use this app under the parent control.
 
 ## Advertising
-The app contains banners or interstitial ads provided by Facebook Ads, the app has no control about data collected by Ads providers such as Ads ID to custom your experience.
+The app contains banners or interstitial ads provided by Unity Ads, the app has no control about data collected by Ads providers such as Ads ID to custom your experience.
 
 ## In-app purchase
 The app has premium features that can be accessed after a purchase.
@@ -32,6 +32,7 @@ The following permissions must be granted:
  - Read/Write external storage
  - Fine location access (May be requested by Ads provider)
  - Internet connection
+ - Google Ads ID (To provide pertinent ads)
 
 
 ## Policy update
